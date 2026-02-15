@@ -36,4 +36,27 @@ The dashboard enables stakeholders to monitor academic, operational, and financi
 
 • Support strategic planning with analytics.
 
-<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/SWIFTROUTE%20LOGISTICS%20DASHBOARD.docx">Business Requirements</a>
+<a href="https://github.com/Parasu-ram-ss/Institutional-Analysis-Dashboard/blob/main/Business_Requirements_Document_Institutional_Analytics.docx">Business Requirements</a>
+
+# Power Bi DashBoard
+
+
+• Interactive charts and graphs
+
+• KPI indicators
+
+• Drill-down and filtering capabilities
+
+• Trend analysis and comparison views
+
+
+<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics%20Analysis%20Dashboard.pbix">PowerBi File</a>
+
+
+
+
+
+
+
+
+
