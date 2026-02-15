@@ -16,4 +16,11 @@ The dataset contains Institutional related information including institutional d
 
 • Financial and administrative records
 
-<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/tree/main">dataset</a>
+<a href="https://github.com/Parasu-ram-ss/Institutional-Analysis-Dashboard/tree/main">dataset</a>
+
+
+# Project Overview
+
+The dashboard enables stakeholders to monitor academic, operational, and financial data through interactive visualizations and reports.
+
+<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics_Analysis_Dashboard_Project_Report.docx">Project Overview Details</a>
