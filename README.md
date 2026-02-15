@@ -1,5 +1,6 @@
 
 # Institutional Analytics Dashboard 
+The Institutional Analytics Dashboard is developed using Microsoft Power BI to provide comprehensive insights into institutional performance metrics. 
 
 # Project Overview
 
