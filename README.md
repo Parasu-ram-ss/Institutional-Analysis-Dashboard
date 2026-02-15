@@ -50,11 +50,20 @@ The dashboard enables stakeholders to monitor academic, operational, and financi
 • Trend analysis and comparison views
 
 
-<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics%20Analysis%20Dashboard.pbix">PowerBi File</a>
+<a href="https://github.com/Parasu-ram-ss/Institutional-Analysis-Dashboard/blob/main/Institutional%20Analytics%20-%20DashBoard(PowerBI).pbix">PowerBi File</a>
 
 
 
+# Business Insights
 
+
+The institution requires a centralized analytics solution to monitor academic, financial, and operational performance effectively.
+
+
+# Conclusion
+
+
+The Institutional Analytics Dashboard provides a structured and interactive approach to monitoring institutional performance and supports strategic planning.
 
 
 
