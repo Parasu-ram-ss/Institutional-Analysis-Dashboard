@@ -23,4 +23,17 @@ The dataset contains Institutional related information including institutional d
 
 The dashboard enables stakeholders to monitor academic, operational, and financial data through interactive visualizations and reports.
 
-<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/Logistics_Analysis_Dashboard_Project_Report.docx">Project Overview Details</a>
+<a href="https://github.com/Parasu-ram-ss/Institutional-Analysis-Dashboard/blob/main/Project_Documentation_Institutional_Analytics.docx">Project Overview Details</a>
+
+
+# Business Requirements
+
+• Enable real-time performance tracking.
+
+• Improve transparency and accountability.
+
+• Reduce manual reporting efforts.
+
+• Support strategic planning with analytics.
+
+<a href="https://github.com/Parasu-ram-ss/Data_Analysis_Dashboard/blob/main/SWIFTROUTE%20LOGISTICS%20DASHBOARD.docx">Business Requirements</a>
